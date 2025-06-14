@@ -54,3 +54,11 @@ Here are some ideas to get you started:
 <!-- ## 📫 Let's Connect
 [![LinkedIn](https://www.linkedin.com/in/douniatoubal)]
 -->
+
+## 📬 Let's Connect
+
+If you'd like to connect or have any questions:
+
+- **Email**: [dounia4112@gmail.com](mailto:dounia4112@gmail.com)
+- **LinkedIn**: [DOUNIA TOUBAL](https://www.linkedin.com/in/douniatoubal)
+- **GitHub**: [dounia4112](https://github.com/dounia4112)
