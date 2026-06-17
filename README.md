@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💼 Aspiring Data Scientist and Educator with hands-on experience in Machine Learning, Full Stack Development, and Data Analysis.</br>
+💼 Aspiring Data Scientist and Educator with hands-on experience in Machine Learning, and Data Analysis.</br>
 🎓 Holding a Master's degree in Artificial Intelligence.</br>
 🌍 Location: Based in Algeria.</br>
 🌱 Currently Learning: Advanced Data Science techniques and Generative AI.</br>
